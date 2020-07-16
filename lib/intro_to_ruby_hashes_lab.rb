@@ -3,14 +3,17 @@ def new_hash
 end
 
 def my_hash
-  foods = {Dinner:"Bread and Hot Chocolate"+
+  foods = {dinner:"Bread and Hot Chocolate"}
+  foods
 end
 
 def pioneer
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  pioner_hash = {name:"Grace Hopper"}
+  pioner_hash
+  
 end
 
 
 def id_hash_generator(number)
-  # return a hash with a key :id assigned to the provided number
+  hash_generator = 
 end
