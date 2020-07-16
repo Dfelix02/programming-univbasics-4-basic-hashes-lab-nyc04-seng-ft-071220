@@ -15,5 +15,7 @@ end
 
 
 def id_hash_generator(number)
-  hash_generator = 
+  hash_generator = {}
+  hash_generator{:id}=number
+  hash_generator
 end
