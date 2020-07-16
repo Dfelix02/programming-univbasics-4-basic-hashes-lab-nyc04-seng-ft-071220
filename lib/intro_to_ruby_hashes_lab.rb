@@ -4,12 +4,12 @@ def new_hash
 end
 
 def my_hash
-  foods = {:dinner=>"Bread and Hot Chocolate"}
+  foods = {:dinner=>" Bread and Hot Chocolate"}
   foods
 end
 
 def pioneer
-  pioner_hash = {:name=>"Grace Hopper"}
+  pioner_hash = {:name=> "Grace Hopper"}
   pioner_hash
   
 end
