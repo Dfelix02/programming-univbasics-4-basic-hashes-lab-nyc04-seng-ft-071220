@@ -14,7 +14,6 @@ def pioneer
   
 end
 
-
 def id_hash_generator(number)
   hash_generator = Hash.new
   hash_generator[:id]= number
