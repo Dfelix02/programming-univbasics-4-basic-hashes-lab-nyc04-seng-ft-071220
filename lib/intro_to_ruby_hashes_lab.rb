@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  foods = {Dinner:
+  foods = {Dinner:"Bread and Hot Chocolate"
 end
 
 def pioneer
